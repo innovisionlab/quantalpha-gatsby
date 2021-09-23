@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---cache-dev-404-page-js",
     "path": "/dev-404-page/",
-    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/404.html"},{"path":"/404/"},{"path":"/"}]}},"pageContext":{}},
+    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/elementor-blocks/"},{"path":"/test/"},{"path":"/ebook/"},{"path":"/downside-protection/"},{"path":"/portfolio/"},{"path":"/login/"},{"path":"/account/"},{"path":"/thank-you/"},{"path":"/comments/"},{"path":"/notifications/"},{"path":"/inbox/"},{"path":"/portfolio_old/"},{"path":"/disclosure/"},{"path":"/my-account_old/"},{"path":"/explore/"},{"path":"/tours/"},{"path":"/pricing/"},{"path":"/features/"},{"path":"/home-2/"},{"path":"/home-old/"},{"path":"/blog/"},{"path":"/404.html"},{"path":"/404/"},{"path":"/"}]}},"pageContext":{}},
     "staticQueryHashes": []}
