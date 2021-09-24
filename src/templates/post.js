@@ -2,7 +2,6 @@ import React from "react"
 import ReactHtmlParser from 'react-html-parser'; 
 import "../styles/index.css"
 
-
 import "../styles/common.min.css"
 import "../styles/frontend-elementor-pro.min.css"
 import "../styles/frontend.min.css"
