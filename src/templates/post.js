@@ -15,9 +15,20 @@ const postTemplate = (data) => {
     
     //console.log(data.pageContext.sitestyles);
     
-    return (<div className="elementor-page">
+    
+    return (<div id="content" className="site-content">
+        <div className="ast-container">
+        <div id="primary" className="content-area primary">
+        <main id="main" className="site-main">
+        <article className="post-{data.pageContext.id} page type-page status-publish ast-article-single">
+        <div className="entry-content clear" id="post-{data.pageContext.id}">
         {ReactHtmlParser("<style>"+data.pageContext.elementorCss+"</style>")}
         {ReactHtmlParser(data.pageContext.content)}
+    </div>
+    </article>
+    </main>
+    </div>
+    </div>
     </div>)
 }
 
